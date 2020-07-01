@@ -1,3 +1,9 @@
 <!--pages/about/about.wxml-->
 <text class="title" id="">about page</text>
 <button size="mini" disabled="disabled">button</button>
+<view>1.title</view>
+<view>2.program</view>
+<view>1.title</view>
+<view>2.program</view>
+<view>1.title</view>
+<view>2.program</view>
